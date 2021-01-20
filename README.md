@@ -16,11 +16,7 @@ BiocManager::install("edgeR")
 
 
 library(edgeR)
-
 library(pscl)
-
 library(AER)   
-
 library(fitdistrplus)
-
 library(osDesign)
